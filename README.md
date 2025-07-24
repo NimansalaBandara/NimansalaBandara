@@ -1,13 +1,13 @@
 <!-- Profile Views -->
-<p align="center">
-  <img src="https://media.tenor.com/cZ4SLHvikdUAAAAM/ravn-youngjo.gif" width="70%" alt="Ravn Youngjo Rocket" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=nimansalabandara&style=flat-square&color=0e75b6" alt="Profile views" />
 </p>
 
 
-<!-- Animated Header (GIF or Video) -->
 <p align="center">
-  <img src="https://tenor.com/view/ravn-youngjo-rocket-tiger-rabbit-gif-8187001154872447445" width="60%" alt="Welcome Animation" />
+  <img src="https://media.tenor.com/GnXkCYaoHGcAAAAM/mm-marketmove.gif" width="70%" alt="Ravn Youngjo Rocket" />
 </p>
+
 
 <h1 align="center">Hi there 👋, I'm Nimansala Bandara</h1>
 <h3 align="center">🎓 Undergraduate at University of Moratuwa</h3>
