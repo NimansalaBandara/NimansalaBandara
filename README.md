@@ -1,7 +1,8 @@
 <!-- Profile Views -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=nimansalabandara&style=flat-square&color=0e75b6" alt="Profile views" />
+<p align="center">
+  <img src="https://media.tenor.com/cZ4SLHvikdUAAAAM/ravn-youngjo.gif" width="70%" alt="Ravn Youngjo Rocket" />
 </p>
+
 
 <!-- Animated Header (GIF or Video) -->
 <p align="center">
