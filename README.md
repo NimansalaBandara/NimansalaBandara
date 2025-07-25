@@ -4,11 +4,14 @@
 </p>
 
 
-<p align="center">
-  <img src="https://media.tenor.com/GnXkCYaoHGcAAAAM/mm-marketmove.gif" width="70%" alt="Ravn Youngjo Rocket" />
-</p>
+<div align="center">
+  <h2>Welcome to My Profile 👋</h2>
+  <p>
+    <img src="https://media1.tenor.com/m/ExtbloI_N-AAAAAC/itsuomi.gif" width="300" alt="Waving Gif" />
+  </p>
+  <h3>I'm an undergraduate at the University of Moratuwa 🎓</h3>
+</div>
 
 
-<h1 align="center">Hi there 👋, I'm Nimansala Bandara</h1>
-<h3 align="center">🎓 Undergraduate at University of Moratuwa</h3>
+
 
